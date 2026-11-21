@@ -28,7 +28,7 @@ export const profile = {
   phone: '+216 20 239 806',
   linkedin: 'https://www.linkedin.com/in/miras-ghrissi-1044a6327',
   linkedinLabel: 'linkedin.com/in/miras-ghrissi-1044a6327',
-  cv: { en: asset('CV_Miras_Ghrissi.pdf'), fr: asset('CV_Miras_Ghrissi_FR.pdf') },
+  cv: { en: asset('CV_Miras_Ghrissi_EN.pdf'), fr: asset('CV_Miras_Ghrissi_FR.pdf') },
 }
 
 export const stats = [
